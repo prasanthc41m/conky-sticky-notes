@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Discord Desktop
+Comment=Discord Desktop for Linux
+Exec=/etc/init.d/conky-startup.sh 
+Type=Application

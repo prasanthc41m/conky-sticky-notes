@@ -1,0 +1,12 @@
+
+
+I was able to do this by creating my own .desktop file in ~/.config/autostart. I'm running Fedora Cinnamon Edition, not sure if this works in other distributions.
+
+in54ne@fedora:~$ nano ~/.config/autostart/conky-notes.desktop 
+
+[Desktop Entry]
+Name=Discord Desktop
+Comment=Discord Desktop for Linux
+Exec=/etc/conky/conky-startup.sh 
+Type=Application
+
