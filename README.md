@@ -13,3 +13,4 @@ mv conky-notes.desktop ~/.config/autostart/
 sudo chmod +x /etc/conky/conky-startup.sh
 touch ~/Documents/conky-notes.txt
 ```
+After ```reboot``` you can see the sticky-notes.
