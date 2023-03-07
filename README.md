@@ -2,6 +2,8 @@
 Sticky notes using Conky for legion5 at bottom near logo. To add note edit ~/Documents/conky-notes.txt
 
 ```
+sudo dnf install conky # Fedora
+sudo apt install conky # Debian
 cd /tmp
 git clone https://github.com/prasanthc41m/conky-sticky-notes.git
 cd conky-sticky-notes
