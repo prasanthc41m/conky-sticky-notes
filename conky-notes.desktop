@@ -1,5 +1,7 @@
 [Desktop Entry]
-Name=Discord Desktop
-Comment=Discord Desktop for Linux
+Name=Conky Sticky Notes
+Comment=Conky Sticky Notes for Linux
 Exec=/etc/init.d/conky-startup.sh 
 Type=Application
+Icon=gnome-sticky-notes-applet
+Categories=System;Monitor;

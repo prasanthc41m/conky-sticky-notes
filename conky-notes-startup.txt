@@ -1,0 +1,14 @@
+
+
+I was able to do this by creating my own .desktop file in ~/.config/autostart. I'm running Fedora Cinnamon Edition, not sure if this works in other distributions.
+
+in54ne@fedora:~$ nano ~/.config/autostart/conky-notes.desktop 
+
+[Desktop Entry]
+Name=Conky Sticky Notes
+Comment=Conky Sticky Notes for Linux
+Exec=/etc/init.d/conky-notes-startup.sh 
+Type=Application
+Icon=gnome-sticky-notes-applet
+Categories=System;Monitor;
+
