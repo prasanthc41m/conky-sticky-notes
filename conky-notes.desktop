@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Conky Sticky Notes
 Comment=Conky Sticky Notes for Linux
-Exec=/etc/init.d/conky-startup.sh 
+Exec=/etc/conky/conky-notes-startup.sh 
 Type=Application
 Icon=gnome-sticky-notes-applet
 Categories=System;Monitor;
